@@ -1,0 +1,4 @@
+﻿E:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(ConsoleApplication1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  ConsoleApplication1.cpp
+e:\master 3d 4.25\consoleapplication1\consoleapplication1\consoleapplication1.cpp(10): warning C4326: “main”的返回类型应为“int”而非“void”
+  ConsoleApplication1.vcxproj -> E:\Master 3d 4.25\ConsoleApplication1\Debug\Main.exe
